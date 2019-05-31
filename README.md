@@ -5,7 +5,7 @@ C compiler based on [compilerbook](https://www.sigbus.info/compilerbook)
 
 ## run test
 
-`make test`
+`./test.sh`
 
 ## remove compiled objects
 
