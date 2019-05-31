@@ -3,4 +3,5 @@
 tmp*
 9cc
 Makefile
-/build/
+!/build/
+/build/*
